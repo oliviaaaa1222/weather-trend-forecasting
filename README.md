@@ -2,8 +2,6 @@
 
 Forecasting global weather trends from the **Global Weather Repository** dataset, with a full data-science pipeline covering cleaning, EDA, time-series forecasting, anomaly detection, model ensembling, and advanced climate / air-quality / spatial / geographic analyses.
 
-This project completes **both** the Basic and Advanced tracks of the assessment.
-
 ---
 
 ## Dataset
