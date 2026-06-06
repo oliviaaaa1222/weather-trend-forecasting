@@ -1,0 +1,37 @@
+{
+  "basic": {
+    "LinearRegression": {
+      "MAE": 0.4272,
+      "RMSE": 1.2648,
+      "MAPE_pct": 4.0146
+    },
+    "SeasonalNaive": {
+      "MAE": 0.6536,
+      "RMSE": 1.4944,
+      "MAPE_pct": 5.1505
+    }
+  },
+  "advanced_models": {
+    "LinearRegression": {
+      "MAE": 0.4189,
+      "RMSE": 1.2449,
+      "MAPE_pct": 3.973
+    },
+    "RandomForest": {
+      "MAE": 0.4686,
+      "RMSE": 1.0508,
+      "MAPE_pct": 4.1303
+    },
+    "GradientBoosting": {
+      "MAE": 0.5697,
+      "RMSE": 1.103,
+      "MAPE_pct": 4.6104
+    },
+    "Ensemble_Mean": {
+      "MAE": 0.4404,
+      "RMSE": 1.0522,
+      "MAPE_pct": 3.9808
+    }
+  },
+  "best_model": "RandomForest"
+}
