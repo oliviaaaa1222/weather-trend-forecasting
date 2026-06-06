@@ -6,14 +6,6 @@ This project completes **both** the Basic and Advanced tracks of the assessment.
 
 ---
 
-## PM Accelerator Mission
-
-> **Product Manager Accelerator (PMA)** — The Product Manager Accelerator helps aspiring and current product managers unlock infinite opportunities and accelerate their careers. Through tailored programs, hands-on projects, mentorship, and a supportive community, PMA has supported hundreds of professionals in landing and advancing PM and AI-PM roles at FAANG companies, Fortune 500 organizations, and high-growth startups. Its mission is to **unlock infinite opportunities for aspiring and current product managers** and help them build the skills, network, and confidence to succeed.
-
-More at the PM Accelerator LinkedIn page and https://www.pmaccelerator.io.
-
----
-
 ## Dataset
 
 - **Source:** [World Weather Repository (Kaggle)](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)
